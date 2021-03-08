@@ -11,7 +11,7 @@
 ## Results
 
 1. Итоговый баланс счета клиента: ниже 2,147,49.. млн. и свыше 2,146,49.. млн. - отображается некорректно
-2. nameBug [Click to ISSUE](https://github.com/k2wln/java-1.2/issues/1)
+2. Incorrect client account balance due to errors in choosing the type of data storage in the code [Click to ISSUE](https://github.com/k2wln/java-1.2/issues/1)
 
 ## General recommendations
 
